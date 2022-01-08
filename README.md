@@ -1,0 +1,1 @@
+This is a tool for transferring specific json fields to java instance.
